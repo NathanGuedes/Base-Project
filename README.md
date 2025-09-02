@@ -65,14 +65,6 @@ docker-compose up -d --build
 
 Após os contêineres estarem em execução, a aplicação estará disponível em `http://localhost` (ou na porta configurada no Nginx/Docker Compose).
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Assumindo licença MIT, caso contrário, ajustar)
-
 ## Autor
 
 Nathan Guedes Pessoa
